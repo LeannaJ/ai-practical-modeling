@@ -1,0 +1,8 @@
+{
+    "api_key": "your_openai_api_key",
+    "email_sender": "your_email@example.com",
+    "email_password": "your_email_password",
+    "email_recipient": "recipient@example.com",
+    "smtp_server": "smtp.gmail.com",
+    "smtp_port": 587
+}
