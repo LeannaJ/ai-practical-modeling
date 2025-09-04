@@ -1,0 +1,14 @@
+# Local OS files
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Env files
+rag:qrag/.env
+.env
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
