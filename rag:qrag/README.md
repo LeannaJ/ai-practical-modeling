@@ -257,11 +257,3 @@ This project is distributed under the MIT License.
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
-
-## 📞 Contact
-
-For questions about the project, please create an issue.
-
----
-
-Create smarter educational content with the **QRAG System**! 🎓✨ 
