@@ -18,9 +18,3 @@ A set of Jupyter notebooks demonstrating Retrieval-Augmented Generation (RAG) wi
 A practical RAG/Q&A prototype over PDF content: parse → chunk → embed → store → retrieve → generate answers.
 - Tech: Python, embeddings/vector store, PDF processing
 - Quick start: see `rag:qrag/README.md`
-
-## Contributing / Adding New Practical Folders
-- Add a new top-level folder with a clear, focused objective (e.g., "<domain>_<task>").
-- Include a short `README.md` describing purpose, setup, and how to run.
-- Append a brief one-liner to the list above in this root `README.md`.
-
